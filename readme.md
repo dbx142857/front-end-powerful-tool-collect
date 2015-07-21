@@ -1,3 +1,7 @@
+牛逼前端资源集锦:
+https://github.com/hjzheng/front-end-collect
+
+
 可能最常用的ng-table
 http://samu.github.io/angular-table/examples/examples.html
 
