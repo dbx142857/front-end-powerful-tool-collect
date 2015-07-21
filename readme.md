@@ -24,3 +24,11 @@ ui-router实现多步骤表单
 css选择器
 输入url到页面ready的过程
 https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/37
+
+
+一个很牛逼的人物的github：
+https://github.com/hjzheng
+
+
+一个牛逼的基于angular的菜单：
+https://github.com/hjzheng/angular-cuf-nav
