@@ -1,3 +1,19 @@
+ng-mdl:
+https://material.angularjs.org/latest/#/demo/material.components.button
+
+司徒正美的github：
+https://github.com/RubyLouvre
+
+img2base64:
+http://picbase64.com/
+
+
+一个牛逼人物的github:
+https://github.com/hjzheng
+
+es6牛逼的电子书:
+http://es6.ruanyifeng.com/
+
 很牛逼的选项卡切换：
 http://www.dglives.com/demo/TabStylesInspiration/
 
@@ -39,3 +55,20 @@ https://github.com/hjzheng
 
 一个牛逼的基于angular的菜单：
 https://github.com/hjzheng/angular-cuf-nav
+
+好工具：
+牛逼的日历组件：
+http://www.internetke.com/jsEffects/2015021608/
+http://sentsin.com/layui/laydate/
+牛逼的弹窗效果
+http://www.dglives.com/demo/DialogEffects/wilma.html
+上传文件:
+http://www.plupload.com/examples
+
+
+
+非常漂亮的svg菜单:
+http://www.html5tricks.com/demo/html5-svg-tab-slider/index.html
+
+bigpipe好文章:
+https://cnodejs.org/topic/52d64a30e20b7c8214bc14f1
