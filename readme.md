@@ -1,3 +1,6 @@
+很牛逼的选项卡切换：
+http://www.dglives.com/demo/TabStylesInspiration/
+
 牛逼前端资源集锦:
 https://github.com/hjzheng/front-end-collect
 
