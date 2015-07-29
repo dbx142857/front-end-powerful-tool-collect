@@ -1,3 +1,6 @@
+移动端调试利器：
+http://alloyteam.github.io/Rosin/
+
 时尚最全github项目集锦:
 http://get.jobdeer.com/682.get
 
